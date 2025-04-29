@@ -1,4 +1,4 @@
-Nama : Muhammad Raihan 
+Nama : Muhammad Raihan Pradana
 Framework: laravel
 Database: MySQL
 
